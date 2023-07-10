@@ -1,4 +1,4 @@
-# fast_api_redis
+# simple fast api redis setup
 **Redis installation**
 #
 `sudo apt install redis-server`
